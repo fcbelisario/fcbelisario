@@ -4,13 +4,13 @@
 
 :bust_in_silhouette: [LinkedIn Profile](https://www.linkedin.com/in/felipe-belisario-92874123/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcbelisario&theme=tokyonight)](https://github.com/fcbelisario/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcbelisario&theme=tokyonight&exclude_repo=AppLove,percentage,CoresDeSP,30_Dias_de_CSS,Next_Level_Week3,reviewing-a-pull-request,oficina-git-dupla&layout=compact)](https://github.com/Talita-8/github-readme-stats)
 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fcbelisario&repo=balneabilidade&theme=radical)](https://github.com/xiaoxian521/CURD-TS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fcbelisario&repo=balneabilidade&theme=radical)](https://github.com/xiaoxian521/CURD-TS)
 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fcbelisario&repo=multiparty-meeting&theme=radical)](https://github.com/xiaoxian521/vue-node-sqlite3)
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fcbelisario&repo=DizAiAPP&theme=radical)](https://github.com/xiaoxian521/private-cli)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fcbelisario&repo=multiparty-meeting&theme=radical)](https://github.com/xiaoxian521/vue-node-sqlite3)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fcbelisario&repo=DizAiAPP&theme=radical)](https://github.com/xiaoxian521/private-cli)
   
 
 ```javascript
