@@ -83,13 +83,13 @@ const aboutMe = {
       <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"
       alt="NodeJS"
-      width="40"
+      width="50"
       height="40"
     />
       <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png"
       alt="NextJS"
-      width="40"
+      width="50"
       height="40"
     />
       <img
