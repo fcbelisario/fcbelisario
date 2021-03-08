@@ -2,8 +2,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcbelisario&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
-:bust_in_silhouette: [LinkedIn Profile](https://www.linkedin.com/in/felipe-belisario-92874123/)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcbelisario&theme=tokyonight&exclude_repo=AppLove,percentage,CoresDeSP,30_Dias_de_CSS,Next_Level_Week3,reviewing-a-pull-request,oficina-git-dupla&layout=compact)](https://github.com/fcbelisario/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fcbelisario&repo=balneabilidade&theme=radical)](https://github.com/xiaoxian521/CURD-TS)
